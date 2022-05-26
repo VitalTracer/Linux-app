@@ -1,2 +1,2 @@
 # Linux-app
-Version=2.43
+Version=2.45
